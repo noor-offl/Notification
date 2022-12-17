@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="channel_default">Default</string>
+    <string name="channel_default_description">This is default channel</string>
+    <string name="channel_important">Important</string>
+    <string name="channel_important_description">This is important channel</string>
+    <string name="snooze">Snooze</string>
+</resources>
